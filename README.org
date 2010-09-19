@@ -1,7 +1,7 @@
 * TODOs
-** TODO write a makefile
-** TODO solution for gfx
+  TODO write a makefile 
+  TODO solution for gfx
 
 
 * DONE 
-** DONE switch to UTF-8
+  DONE switch to UTF-8
